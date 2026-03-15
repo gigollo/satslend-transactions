@@ -1,0 +1,16 @@
+{
+  "loan_id": "LN-TEST-001",
+  "outcome": "default",
+  "escrow_address": "3TestAddress",
+  "collateral_btc": 0.003,
+  "loan_amount_usd": 100,
+  "maturity_date": "2026-04-15T00:00:00+00:00",
+  "btc_price_at_creation": 71000,
+  "output_to": "lender",
+  "timelock": "2026-04-15T00:00:00+00:00",
+  "txid": "def456",
+  "raw_hex": "cccddd",
+  "how_to_broadcast": "Use bitcoin-cli sendrawtransaction <raw_hex> or broadcast at blockstream.info/tx/push",
+  "created_at": "2026-03-15T12:22:32.377054+00:00",
+  "network": "MAINNET"
+}
