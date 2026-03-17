@@ -1,0 +1,16 @@
+{
+  "loan_id": "LN-1773767580-0001",
+  "outcome": "default",
+  "escrow_address": "3EZ8mf2pGFkUoVKkGD7ZPSqT3Ckk4uvV6D",
+  "collateral_btc": 0.0026959144629475538,
+  "loan_amount_usd": 100.0,
+  "maturity_date": "2026-04-16T17:13:00.288532+00:00",
+  "btc_price_at_creation": 74186.33,
+  "output_to": "liquidator",
+  "timelock": "2026-04-16T17:13:00.288532+00:00",
+  "txid": "242dcba78841d7f1c252eedd8d1db1279750241768bfe1e57b3e76ff0b319786",
+  "raw_hex": "5663d1359c2fdb53199bfa06c746e95b2d4a4a09a93f00f660d33d5c1f41f3799bfabfe73e414fbbddd8c90b098eb31afe60667b68f58cba1a1712071e446107",
+  "how_to_broadcast": "Use bitcoin-cli sendrawtransaction <raw_hex> or broadcast at blockstream.info/tx/push",
+  "created_at": "2026-03-17T17:13:00.329415+00:00",
+  "network": "MAINNET"
+}
